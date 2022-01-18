@@ -1,25 +1,38 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/web-crawler.png
+title: Java Web Crawler
+permalink: projects/web-crawler
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-04-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+summary: A simple web crawler built with Java.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This simple webcrawler is a java program that takes commandline URL argument and prints out to the console the list of websites that are discovered to the depth specified in the command argument. This was my first project where I worked with others and collaborated to make the code function.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During the process of this project, we mapped out the general design for the code. We made pseudocodes for the essential methods of the code such as the validate links and
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large github icon"></i>Louie808/Black_Jack_GUI</a>.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<div class="center">
+  
+  Command line argument
+  
+  <img class="Center" src="../images/java_wc_commandArg.png" width="400" height="300" alt="">
+  
+  start of Breath-First
+  
+  <img class="Center" src="../images/java_wc_ex1.png" width="400" height="300" alt="">
+  
+  Console keeps printing even through depth of 2
+  
+  <img class="Center" src="../images/java_wc_ex2.png" width="400" height="300" alt="">
+  
+  Breath-First and Depth-First
+  
+  <img class="Center" src="../images/java_wc_run.png" width="400" height="300" alt="">
+  
+</div>
