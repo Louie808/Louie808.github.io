@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/web_crawl.png
 title: Java Web Crawler
-permalink: projects/web-crawler
+permalink: projects/web_wc
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
 labels:
@@ -15,7 +15,7 @@ This simple webcrawler is a java program that takes commandline URL argument and
 
 During the process of this project, we mapped out the general design for the code. We made pseudocodes for the essential methods of the code such as the validate links and
 
-Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large github icon"></i>Louie808/Black_Jack_GUI</a>.
+Source: <a href = "https://github.com/Louie808/Java_WebCrawler"><i class="large github icon"></i>Louie808/Java_WebCrawler</a>.
 
 <div class="center">
   
