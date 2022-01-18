@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/scratch_project.jpg
-title: 8th Grade Coding project
+image: images/scratch_project.png
+title: 8th Grade Scratch Game
 permalink: projects/Scratch.mit.edu
 # All dates must be YYYY-MM-DD format!
 date: 2016-04-25
