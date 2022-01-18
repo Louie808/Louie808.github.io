@@ -52,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,26 +72,37 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.99",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Pearl City High School, Pearl City, HI",
+      "area": "Intro Computer Science",
+      "studyType": "High School Diploma",
+      "startDate": "2016-09-01",
+      "endDate": "2020-05-17",
+      "gpa": "3.674",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Japan International Karate Center (JIKC)",
+      "position": "Senpai (Assisting Instructor)",
+      "website": "https://www.jikc-hq.org/",
+      "startDate": "2013-01-04",
+      "endDate": "2020-11-04",
+      "summary": "Teaching assistant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisting head instructor by helping warm-up the class",
+        "Individually teaching students or group of students", 
+        "while also training oneself and helping others"
       ]
-    },
+    }/*,
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -105,19 +114,18 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
+    }*/
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Aloha Stadium",
+      "website": "",
+      "position": "Runner",
+      "startDate": "2018-010-20",
+      "endDate": "2018-11-24",
+      "summary": "Volunteer Fundraiser for Moanaloa Middle School music",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Worked the consession stands during football games"
       ]
     },
     {
@@ -137,16 +145,16 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2020-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "National Spanish Exam Participant",
+      "date": "2016-2020",
+      "awarder": "the American Association of Teachers of Spanish and Portuguese",
+      "summary": "Invited and Participated all 4 years of high school to take the exam"
+    },
   ],
   "references": [
     {
