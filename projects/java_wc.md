@@ -20,19 +20,19 @@ Source: <a href = "https://github.com/Louie808/Java_WebCrawler"><i class="large 
 <div class="center">
   
   Command line argument
-  
+  <br class=”blank” />
   <img class="Center" src="../images/java_wc_commandArg.png" width="400" height="300" alt="">
-  
+  <br class=”blank” />
   start of Breath-First
-  
+  <br class=”blank” />
   <img class="Center" src="../images/java_wc_ex1.png" width="400" height="300" alt="">
-  
+  <br class=”blank” /><br class=”blank” />
   Console keeps printing even through depth of 2
-  
+  <br class=”blank” />
   <img class="Center" src="../images/java_wc_ex2.png" width="400" height="300" alt="">
-  
+  <br class=”blank” />
   Breath-First and Depth-First
-  
+  <br class=”blank” />
   <img class="Center" src="../images/java_wc_run.png" width="400" height="300" alt="">
   
 </div>
