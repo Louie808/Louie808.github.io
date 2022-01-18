@@ -16,6 +16,6 @@ I programmed a 2d maze game using blocks coding for a STEM class, which was also
 
 Site : <a href = "https://scratch.mit.edu/projects/106124273/">Scratch.Mit
 <div class="center">
-  <img class="ui medium right floated image" src="../images/scratch_page.png">
-  <img class="ui medium left floated image" src="../images/scratchCode.png">
+  <img style="height:600px" src="../images/scratch_page.png">
+  <img style="height:600px" src="../images/scratchCode.png">
 </div>
