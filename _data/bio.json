@@ -2,7 +2,7 @@
   "basics": {
     "name": "Louie Bala",
     "label": "Student",
-    "picture": "https://Louie808.github.io/images/Louie_pic.jpg",
+    "picture": "https://Louie808.github.io/images/Face_snow_close.jpg",
     "email": "balal@hawaii.edu",
     "phone": "",
     "website": "https://Louie808.github.io",
@@ -115,19 +115,7 @@
       "highlights": [
         "Worked the consession stands during football games"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+    }
     }
   ],
   "awards": [
