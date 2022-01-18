@@ -17,6 +17,6 @@ Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="l
 Site : <a href = "https://scratch.mit.edu/projects/106124273/">Scratch.Mit
   
 <div class="center">
-  <img style="height:600px" src="../images/scratch_page.png">
-  <img style="height:600px" src="../images/scratchCode.png">
+  <img src="../images/scratch_page.png" width="400" height="300" alt="">
+  <img src="../images/scratchCode.png" width="400" height="300" alt="">
 </div>
