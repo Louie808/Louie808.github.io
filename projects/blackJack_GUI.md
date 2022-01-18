@@ -15,7 +15,7 @@ summary: A simple GUI version of BlackJack.
 
 Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large github icon"></i>Louie808/Black_Jack_GUI</a>.
 
-<div style="display:flex">
+<div style="display:center">
   <img src="../images/bj_ss1.png" style="height:300px">
   <img src="../images/bj_ss2.png" style="height:300px">
 </div>
