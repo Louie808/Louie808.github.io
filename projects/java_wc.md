@@ -17,22 +17,19 @@ During the process of this project, we mapped out the general design for the cod
 
 Source: <a href = "https://github.com/Louie808/Java_WebCrawler"><i class="large github icon"></i>Louie808/Java_WebCrawler</a>.
 
+Command line argument
 <div class="center">
-  
-  Command line argument
-  <br class=”blank” />
   <img class="Center" src="../images/java_wc_commandArg.png" width="400" height="300" alt="">
-  <br class=”blank” />
-  start of Breath-First
-  <br class=”blank” />
+</div>
+Start of Breath-First
+<div class="center">
   <img class="Center" src="../images/java_wc_ex1.png" width="400" height="300" alt="">
-  <br class=”blank” /><br class=”blank” />
-  Console keeps printing even through depth of 2
-  <br class=”blank” />
+</div>
+Console keeps printing even through depth of 2
+<div class="center">
   <img class="Center" src="../images/java_wc_ex2.png" width="400" height="300" alt="">
-  <br class=”blank” />
-  Breath-First and Depth-First
-  <br class=”blank” />
+</div>
+Breath-First and Depth-First
+<div class="center">
   <img class="Center" src="../images/java_wc_run.png" width="400" height="300" alt="">
-  
 </div>
