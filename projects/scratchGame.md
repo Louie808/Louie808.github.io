@@ -11,16 +11,16 @@ labels:
 summary: Scratch Game from 8th grade.
 ---
 
-I programmed a 2d maze game using blocks coding for a STEM class, which was also entered for the in-class tournament placing 3rd in a class of 30. STEM teacher just assigned the class to make a game and submit.
+I programmed a 2d maze game using blocks coding for a STEM class, which was also entered for the in-class tournament placing 3rd in a class of 30. The STEM teacher just assigned the class to make a game and submit, knowing that most of us knew nothing about programming. It is a simple maze game where you control the small square and manuever through the maze, and as you progress, each stage gets more difficult and challenging.
 
-This was a solo simple block coding project. There was many details I added like a death count, timer, and music. Simple arrow-key input was used to control the sprite. There is collision mechanics that prevent the player from going through the walls of the maze.
+This was a individual block coding project. There was many details I added like a death count, timer, and music. Simple arrow-key input was used to control the sprite (small square). There is collision mechanics that prevent the player from going through the walls of the maze.
 
 Player Sprite, Timer, Death count.
 <div class="center">
   <img src="../images/scratch_play.png" width="280" height="240" alt="">
 </div>
 
-Most students in the class did not know how to code and this was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development.
+This was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development. Looking back at my code, it is messy and I have matured a lot especially since ICS 111. The methods I would make now would be more efficient and would use less lines of code. My code that I write now is much more cleaner and easier to read, thanks to coding style requirements for ICS 211 and ICS 212.
 
 Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="large github icon"></i>Louie808/8thGrade_ScratchGame</a>
 
