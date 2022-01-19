@@ -14,10 +14,9 @@ summary: A simple GUI version of BlackJack.
 <img class="ui medium left floated image" src="../images/blackjack.png">
 This Black Jack GUI was my final project for ICS 111, where I learned the basics of Java. The purpose of this project was to put to practice the knowledge gained from the class. At first I made a console version of the game, and after finishing that I transformed it into a graphic-user-interface(GUI).
 
-
 This was a individual project, although the TA gave a folder with pngs of the entire deck of cards, which improved graphics allowing virtual cards to be displayed to the board. I made use of JFrames, JPanels, JLabels, JButtons, and other classes to be able to design and color my graphical-user-interface. It was very exciting to code each new game option and update the window for users. Although actual game-logic was very simple, it was making the interface, which was long but fun.
 
-
+I gained a lot of object-oriented progamming experience. I was able to create a card and assign it values and suits, and put that card into a full deck of 52 cards and imitate playing 1 player black jack against the dealer. 
 
 Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large github icon"></i>Louie808/Black_Jack_GUI</a>.
 
@@ -25,3 +24,38 @@ Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large g
   <img src="../images/bj_ss1.png" style="height:300px">
   <img src="../images/bj_ss2.png" style="height:300px">
 </div>
+<h2>Code for the "hit" and "stand" options</h2>
+```java
+public void hit(deck deck) {
+			deck.draw(gameDeck);
+			cards_panel.repaint();
+			if(deck.getHandValue()>21) {
+				roundWinner("pbust", deck);
+				for(int i = 0; i<option_button.length; i++) {
+					option_button[i].setEnabled(false);
+				}
+			}
+		}
+		public void stand(deck deck) {
+			if(deck.getHandValue()>21) {
+				roundWinner("pbust", deck);
+				for(int i = 0; i<option_button.length; i++) {
+					option_button[i].setEnabled(false);
+				}
+			}else {
+				while(dealer.getHandValue()<17) {
+					dealer.draw(gameDeck);
+				}
+				for(int i = 0; i<option_button.length; i++) {
+					option_button[i].setEnabled(false);
+				}
+				cards_panel.repaint();
+				if(dealer.getHandValue()>21) {
+					roundWinner("dbust", dealer);
+				}
+				if(dealer.getHandValue()<=21 && player.getHandValue()<=21) {
+					roundWinner("", player);
+				}
+			}
+		}
+    ```
