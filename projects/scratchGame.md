@@ -17,7 +17,7 @@ This was a individual block coding project. There was many details I added like 
 
 Player Sprite, Timer, Death count.
 <div class="center">
-  <img src="../images/scratch_play.png" width="280" height="240" alt="">
+  <img src="../images/scratch_play.png" width="340" height="300" alt="">
 </div>
 
 This was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development. Looking back at my code, it is messy and I have matured a lot especially since ICS 111. The methods I would make now would be more efficient and would use less lines of code. My code that I write now is much more cleaner and easier to read, thanks to coding style requirements for ICS 211 and ICS 212.
@@ -26,9 +26,6 @@ Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="l
 
 Site : <a href = "https://scratch.mit.edu/projects/106124273/">Scratch.Mit
   
-<div class="center">
-  <img src="../images/scratch_page.png" width="530" height="400" alt="">
-</div>
 <div class="center">
   <img src="../images/scratchCode.png" width="700" height="560" alt="">
 </div>
