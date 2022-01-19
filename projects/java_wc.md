@@ -11,9 +11,11 @@ labels:
 summary: A simple web crawler built with Java.
 ---
 
-This simple webcrawler is a java program that takes commandline URL argument and prints out to the console the list of websites that are discovered to the depth specified in the command argument. This was my first project where I worked with others and collaborated to make the code function.
+This is a simple webcrawler Java program that takes 2 command-line arguments. The 1st argument is the HTML URL that will be crawled, and the 2nd argument is the depth that the HTML will be crawled. Once it has "crawled" through all the HTML links, it will print the list to the console in a  breadth-first search (BFS) and depth-first search (DFS) fashion.
 
-During the process of this project, we mapped out the general design for the code. We made pseudocodes for the essential methods of the code such as the validate links and
+This was my first project where I worked with others and collaborated to make the code function. During the process of this project, we mapped out the general design for the code. We made pseudocodes for the essential methods of the code. And then as we coded we went to Stack Overflow> and GeeksforGeeks for assistance.
+
+This wwas a very beneficial project, learning to extrack links from an HTML, using regular expressions to filter through input sequence, performing breadth-first search and depth-first search algorithm, and the use of hashtables and linked lists data structures. This put alot of the material, learned from 211, simultaneously to practice. There were some components, such as the graph traversal algorithm, that I am still unsure about and hopefully will be addressed in the ICS 311 course.
 
 Source: <a href = "https://github.com/Louie808/Java_WebCrawler"><i class="large github icon"></i>Louie808/Java_WebCrawler</a>.
 
@@ -21,7 +23,7 @@ Command line argument
 <div class="center">
   <img class="Center" src="../images/java_wc_commandArg.png" width="400" height="300" alt="">
 </div>
-Start of Breath-First
+Start of Breadth-First
 <div class="center">
   <img class="Center" src="../images/java_wc_ex1.png" width="400" height="300" alt="">
 </div>
@@ -29,7 +31,7 @@ Console keeps printing even through depth of 2
 <div class="center">
   <img class="Center" src="../images/java_wc_ex2.png" width="400" height="300" alt="">
 </div>
-Breath-First and Depth-First
+Breath-First and Depth-First with a depth of 1
 <div class="center">
   <img class="Center" src="../images/java_wc_run.png" width="400" height="300" alt="">
 </div>
