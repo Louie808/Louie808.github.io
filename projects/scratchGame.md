@@ -20,7 +20,7 @@ Player Sprite, Timer, Death count.
   <img src="../images/scratch_play.png" width="340" height="300" alt="">
 </div>
 
-This was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development. Looking back at my code, it is messy and I have matured a lot especially since ICS 111. The methods I would make now would be more efficient and would use less lines of code. My code that I write now is much more cleaner and easier to read, thanks to coding style requirements for ICS 211 and ICS 212.
+This was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development. Looking back at my code, it is messy and I have matured a lot especially since ICS 111. The methods I could make now would be more efficient and would use less lines of code. My code that I write now is much more cleaner and easier to read, thanks to coding style requirements for ICS 211 and ICS 212.
 
 Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="large github icon"></i>Louie808/8thGrade_ScratchGame</a>
 
