@@ -17,7 +17,7 @@ This was a solo simple block coding project. There was many details I added like
 
 Player Sprite, Timer, Death count.
 <div class="center">
-  <img src="../images/scratch_play.png" width="300" height="240" alt="">
+  <img src="../images/scratch_play.png" width="280" height="240" alt="">
 </div>
 
 Most students in the class did not know how to code and this was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development.
