@@ -26,36 +26,37 @@ Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large g
 </div>
 <h2>Code for the "hit" and "stand" options</h2>
 ```java
+
 public void hit(deck deck) {
-			deck.draw(gameDeck);
-			cards_panel.repaint();
-			if(deck.getHandValue()>21) {
-				roundWinner("pbust", deck);
-				for(int i = 0; i<option_button.length; i++) {
-					option_button[i].setEnabled(false);
-				}
-			}
+	deck.draw(gameDeck);
+	cards_panel.repaint();
+	if (deck.getHandValue() > 21) {
+		roundWinner("pbust", deck);
+		for (int i = 0; i<option_button.length; i++) {
+			option_button[i].setEnabled(false);
 		}
-		public void stand(deck deck) {
-			if(deck.getHandValue()>21) {
-				roundWinner("pbust", deck);
-				for(int i = 0; i<option_button.length; i++) {
-					option_button[i].setEnabled(false);
-				}
-			}else {
-				while(dealer.getHandValue()<17) {
-					dealer.draw(gameDeck);
-				}
-				for(int i = 0; i<option_button.length; i++) {
-					option_button[i].setEnabled(false);
-				}
-				cards_panel.repaint();
-				if(dealer.getHandValue()>21) {
-					roundWinner("dbust", dealer);
-				}
-				if(dealer.getHandValue()<=21 && player.getHandValue()<=21) {
-					roundWinner("", player);
-				}
-			}
+	}
+}
+public void stand(deck deck) {
+	if (deck.getHandValue() > 21) {
+		roundWinner("pbust", deck);
+		for (int i = 0; i<option_button.length; i++) {
+			option_button[i].setEnabled(false);
 		}
+	} else {
+	while (dealer.getHandValue()<17) {
+		dealer.draw(gameDeck);
+	}
+	for (int i = 0; i<option_button.length; i++) {
+		option_button[i].setEnabled(false);
+	}
+	cards_panel.repaint();
+	if (dealer.getHandValue()>21) {
+		roundWinner("dbust", dealer);
+		}
+	if (dealer.getHandValue()<=21 && player.getHandValue()<=21) {
+		roundWinner("", player);
+		}
+	}
+}
     ```
