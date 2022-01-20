@@ -34,12 +34,17 @@
       ]
     },
     {
-      "name": "outdoor activities",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "video gaming",
+      "name": "Gaming Industry",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -62,8 +67,9 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "Windows",
+        "Linux"
       ]
     }
   ],
@@ -72,10 +78,17 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2020-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
       "gpa": "3.99",
       "courses": [
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
+        "ICS 212: C/C++ Programming",
+        "ICS 241: Discrete Math II for CS",
+        "ICS 211: Data Structures",
+        "ICS 141: Discrete Math I for CS",
+        "ICS 111: Intro to Java"
       ]
     },
     {
@@ -119,6 +132,12 @@
   ],
   "awards": [
     {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
+    },
+    {
       "title": "B+ Scholarship",
       "date": "2020-Present",
       "awarder": "State of Hawaii",
@@ -130,6 +149,12 @@
       "awarder": "the American Association of Teachers of Spanish and Portuguese",
       "summary": "Invited and Participated all 4 years of high school to take the exam"
     },
+    {
+      "title": "Dean's List",
+      "date": "2020-present",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    }
   ],
   "references": [
     {
