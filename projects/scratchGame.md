@@ -8,6 +8,7 @@ permalink: projects/scratchGame
 date: 2016-04-25
 labels:
   - Block Coding
+  - Game Design
 summary: Scratch Game from 8th grade.
 ---
 
