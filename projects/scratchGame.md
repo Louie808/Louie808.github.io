@@ -15,7 +15,7 @@ summary: Scratch Game from 8th grade.
 
 I programmed a 2d maze game using blocks coding for a STEM class, which was also entered for the in-class tournament placing 3rd in a class of 30. The STEM teacher just assigned the class to make a game and submit, knowing that most of us knew nothing about programming. It is a simple maze game where you control the small square and manuever through the maze, and as you progress, each stage gets more difficult and challenging.
 
-This was a individual project using a sprite lab. Sprite Lab is a block-based programming environment that allows you to create basic animations and games using interconnected objects and characters. Create a game or animation, then share it in a matter of seconds. There was many details I added like a death count, timer, and music. Simple arrow-key input was used to control the sprite (small square). There is collision mechanics where if the sprite were to touch the walls, the player would restart the level and increment death count.
+This was a individual project using a sprite lab. Sprite Lab is a block-based programming environment that allows you to create basic animations and games using interconnected objects and characters. Create a game or animation, then share it in a matter of seconds. There was many details I added like a death count, timer, and music. Simple arrow-key input was used to control the sprite (small square). There is collision mechanics where if the sprite were to touch the walls, the player would restart the level and increment death count if the wall is red.
 
 Player Sprite, Timer, Death count.
 <div class="center">
