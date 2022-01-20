@@ -26,7 +26,7 @@ This was my first time touching code. It was a really fun experience and what le
 
 Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="large github icon"></i>Louie808/8thGrade_ScratchGame</a>
 
-Site : <a href = "https://scratch.mit.edu/projects/106124273/">Scratch.Mit
+Scratch game link: <a href = "https://scratch.mit.edu/projects/106124273/">Game LINK</a> (Click "See Inside" to look at code)
   
 <div class="center">
   <img src="../images/scratchCode.png" width="700" height="560" alt="">
