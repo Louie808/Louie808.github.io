@@ -117,6 +117,21 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Japan international Karate Center (JIKC)",
+      "website": "https://www.jikc-hq.org/",
+      "position": "Student",
+      "startDate": "2009-01-04",
+      "endDate": "2020-11-04",
+      "summary": "Former Karate student",
+      "highlights": [
+        "Trained",
+        "Former member of the JIKC competition team, competing in Hawaii tournaments",
+        "Senpai (assisting instructor)",
+      ] 
+    }
+  ],
   "awards": [
     {
       "title": "Manoa Academic Merit Scholarship",
