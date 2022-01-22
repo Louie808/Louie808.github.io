@@ -11,7 +11,7 @@ labels:
   - Game Design
 summary: A simple GUI version of BlackJack.
 ---
-<img class="ui medium left floated image" src="../images/blackjack.png">
+<img class="ui small left floated image" src="../images/blackjack.png">
 This Black Jack GUI was my final project for ICS 111, where I learned the basics of Java. The purpose of this project was to put to practice the knowledge gained from the class. At first I made a console version of the game, and after finishing that I transformed it into a graphic-user-interface(GUI). I also implemented a simple betting system, and including the "hit" and "stand" game options I also implemented a "double-down" feauture.
 
 This was a individual project, although the TA gave a folder with pngs of the entire deck of cards, which improved graphics allowing virtual cards to be displayed to the board. I made use of JFrames, JPanels, JLabels, JButtons, and other classes to be able to design and color my graphical-user-interface. It was very exciting to code each new game option and update the window for users. Although actual game-logic was very simple, it was making the interface, which was long but fun.
