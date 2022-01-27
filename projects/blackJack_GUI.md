@@ -21,6 +21,6 @@ I gained a lot of object-oriented progamming experience. I was able to create a 
 Source: <a href = "https://github.com/Louie808/Black_Jack_GUI"><i class="large github icon"></i>Louie808/Black_Jack_GUI</a>.
 
 <div style="display:center">
-  <img src="../images/bj_ss1.png" style="height:300px">
-  <img src="../images/bj_ss2.png" style="height:300px">
+  <img src="../images/bj_ss1.png" style="height:300px" class="ui fluid image">
+  <img src="../images/bj_ss2.png" style="height:300px" class="ui fluid image">
 </div>
