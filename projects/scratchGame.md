@@ -29,5 +29,5 @@ Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="l
 Scratch game link: <a href = "https://scratch.mit.edu/projects/106124273/">Game LINK</a> (Click "See Inside" to look at code)
   
 <div class="center">
-  <img src="../images/scratchCode.png" height="700">
+  <img src="../images/scratchCode.png" height="700" class="ui fluid image">
 </div>
