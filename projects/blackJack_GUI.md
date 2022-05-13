@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blackjack.png
+image: images/ProjectImages/blackjack.png
 title: Black Jack GUI
 permalink: projects/blackJack_GUI
 # All dates must be YYYY-MM-DD format!
