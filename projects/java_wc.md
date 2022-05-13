@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/web_crawl.png
+image: images/ProjectImages/web_crawl.png
 title: Java Web Crawler
 permalink: projects/web_wc
 # All dates must be YYYY-MM-DD format!
