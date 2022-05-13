@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scratch_project.png
+image: images/ProjectImages/scratch_project.png
 title: 8th Grade Scratch Game
 permalink: projects/scratchGame
 # All dates must be YYYY-MM-DD format!
