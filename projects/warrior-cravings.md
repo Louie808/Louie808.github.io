@@ -27,16 +27,16 @@ Christine Nakano, Jase Ishimi, Mahie Crabbe, Zach Chaikin, and I used GitHub as 
 #### The Following Screenshots are pages that I have helped developed, fixed, rewrite, and rework.
 <div class="ui center grid container"}>
 <div class="column">
-    <img fluid src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/landing-page-new.png" alt="Image from Deployed Site"/>
-    <img fluid src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/user-vendor-list.PNG" alt="Image from Deployed Site"/>
-    <img fluid src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/vendor-menuitems" alt="Image from Deployed Site"/>
-    <img fluid src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/add-vendor.PNG" alt="Image from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/landing-page-new.png" alt="landing page from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/user-vendor-list.PNG" alt="vendor list from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/vendor-menuitems.png" alt="vendor items from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/add-vendor.PNG" alt="admin vendor list from Deployed Site"/>
 </div>
 <div class="column">
-    <img src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/final-location.PNG" alt="Image from Deployed Site"/>
-    <img src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/vendor-myvendor.png" alt="Image from Deployed Site"/>
-    <img src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/user-feeling-hungry.PNG" alt="Image from Deployed Site"/>
-    <img src="GitHub/Louie808.github.io/images/ProjectImages/WarriorCravings/add-menu-item.PNG" alt="Image from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/final-location.PNG" alt="location from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/vendor-myvendor.png" alt="my vendor profile from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/user-feeling-hungry.PNG" alt="feeling hungry from Deployed Site"/>
+    <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/add-menu-item.PNG" alt="admin menu item list from Deployed Site"/>
 </div>
 </div>
 
