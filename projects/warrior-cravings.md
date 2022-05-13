@@ -25,7 +25,7 @@ summary: A Website that displays to users vendors that are on or around UH Manoa
 Christine Nakano, Jase Ishimi, Mahie Crabbe, Zach Chaikin, and I used GitHub as our primary project center while working on this project. Through issue-driven project management, we used the project feature to keep track of our milestones. Furthermore, GitHub's ability to divide out the project into branches made the organizing aspect much easier, especially when committing changes to the main branch. Although the majority of our group's contact took place online via Discord, we used GitHub to track the project's development. Our group would meet regularly to discuss our responsibilities and issues, as well as to help each other or seek our TA for assistance as required.
 
 #### The Following Screenshots are pages that I have helped developed, fixed, rewrite, and rework.
-<div class="ui center grid container"}>
+<div class="ui center grid container">
 <div class="column">
     <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/landing-page-new.png" alt="landing page from Deployed Site"/>
     <img src="https://louie808.github.io/images/ProjectImages/WarriorCravings/user-vendor-list.PNG" alt="vendor list from Deployed Site"/>
