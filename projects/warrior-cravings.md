@@ -18,7 +18,7 @@ labels:
 summary: A Website that displays to users vendors that are on or around UH Manoa campus.
 ---
 
-<img class="ui fluid centered" src="https://louie808.github.io/images/ProjectImages/WarriorCravings/landing-page-new.png">
+<img  width="700vw" src="https://louie808.github.io/images/ProjectImages/WarriorCravings/landing-page-new.png">
 
 <a href="https://github.com/warrior-cravings">Warrior-Cravings</a> is an online application that serves as culinary and restaurant guide for University of Hawaii: Manoa students. The online application seeks to highlight the vast array of food alternatives available on an artound the UH campuis in order to assist students in discovering new taste profiles or just locating their favorite cuisine. Furthermore, this web application assists in providing a tiny platform assisnts in providing a tiny platform for campus vendors. This was the final group project for my ICS 314 (Software Engineering I) class to demonstrate our overall understandding of software engineering and web app development.
 
@@ -26,17 +26,17 @@ Christine Nakano, Jase Ishimi, Mahie Crabbe, Zach Chaikin, and I used GitHub as 
 
 #### The Following Screenshots are pages that I have helped developed, fixed, rewrite, and rework.
 <div class="ui center grid container">
-<div class="ui column">
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/landing-page-new.png" alt="landing page from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/user-vendor-list.PNG" alt="vendor list from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/vendor-menuitems.png" alt="vendor items from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/add-vendor.PNG" alt="admin vendor list from Deployed Site"/>
+<div class="grid column">
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/landing-page-new.png" alt="landing page from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/user-vendors-list.PNG" alt="vendor list from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/vendor-menuitems.png" alt="vendor items from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/add-vendor.PNG" alt="admin vendor list from Deployed Site"/>
 </div>
-<div class="ui column">
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/final-location.PNG" alt="location from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/vendor-myvendor.png" alt="my vendor profile from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/user-feeling-hungry.PNG" alt="feeling hungry from Deployed Site"/>
-    <img class="ui fluid" src="../images/ProjectImages/WarriorCravings/add-menu-item.PNG" alt="admin menu item list from Deployed Site"/>
+<div class="grid column">
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/final-location.PNG" alt="location from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/vendor-myvendor.png" alt="my vendor profile from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/user-feeling-hungry.PNG" alt="feeling hungry from Deployed Site"/>
+    <img width="300vw" src="../images/ProjectImages/WarriorCravings/add-menu-item.PNG" alt="admin menu item list from Deployed Site"/>
 </div>
 </div>
 
