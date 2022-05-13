@@ -19,7 +19,7 @@ This was a individual project using a sprite lab. Sprite Lab is a block-based pr
 
 Player Sprite, Timer, Death count.
 <div class="center">
-  <img src="../images/scratch_play.png" height="300">
+  <img src="GitHub/Louie808.github.io/images/ProjectImages/scratch_play.png" height="300">
 </div>
 
 This was my first time touching code. It was a really fun experience and what led me down the computer science path. It introduced me to object oriented programming, without even knowing, and game development. Looking back at my code, it is messy and I have matured a lot especially since ICS 111. The methods I could make now would be more efficient and would use less lines of code. My code that I write now is much more cleaner and easier to read, thanks to coding style requirements for ICS 211 and ICS 212.
@@ -29,5 +29,5 @@ Source: <a href = "https://github.com/Louie808/8thGrade_ScratchGame"><i class="l
 Scratch game link: <a href = "https://scratch.mit.edu/projects/106124273/">Game LINK</a> (Click "See Inside" to look at code)
   
 <div class="center">
-  <img src="../images/scratchCode.png" height="700" class="ui fluid image">
+  <img src="GitHub/Louie808.github.io/images/ProjectImages/scratchCode.png" height="700" class="ui fluid image">
 </div>

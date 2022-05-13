@@ -21,17 +21,17 @@ Source: <a href = "https://github.com/Louie808/Java_WebCrawler"><i class="large 
 
 Command line argument
 <div class="center">
-  <img class="Center" src="../images/java_wc_commandArg.png" height="500" class="ui fluid image">
+  <img class="Center" src="GitHub/Louie808.github.io/images/ProjectImages/java_wc_commandArg.png" height="500" class="ui fluid image">
 </div>
 Start of Breadth-First
 <div class="center">
-  <img class="Center" src="../images/java_wc_ex1.png" height="500" class="ui fluid image">
+  <img class="Center" src="GitHub/Louie808.github.io/images/ProjectImages/java_wc_ex1.png" height="500" class="ui fluid image">
 </div>
 Console keeps printing even through depth of 2
 <div class="center">
-  <img class="Center" src="../images/java_wc_ex2.png" height="500" class="ui fluid image">
+  <img class="Center" src="GitHub/Louie808.github.io/images/ProjectImages/java_wc_ex2.png" height="500" class="ui fluid image">
 </div>
 Breath-First and Depth-First with a depth of 1
 <div class="center">
-  <img class="Center" src="../images/java_wc_run.png" height="500" class="ui fluid image">
+  <img class="Center" src="GitHub/Louie808.github.io/images/ProjectImages/java_wc_run.png" height="500" class="ui fluid image">
 </div>
