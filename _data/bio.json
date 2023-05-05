@@ -57,7 +57,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "MongoDB",
+        "GitHub"
       ]
     },
     {
@@ -82,13 +86,13 @@
       "endDate": "Present",
       "gpa": "3.99",
       "courses": [
-        "ICS 314: Software Engineering I",
+        /*"ICS 314: Software Engineering I",
         "ICS 311: Algorithms",
         "ICS 212: C/C++ Programming",
         "ICS 241: Discrete Math II for CS",
         "ICS 211: Data Structures",
         "ICS 141: Discrete Math I for CS",
-        "ICS 111: Intro to Java"
+        "ICS 111: Intro to Java"*/
       ]
     },
     {
@@ -103,6 +107,19 @@
     }
   ],
   "work": [
+    {
+      "company": "UH Groupings",
+      "position": "Web Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "2022-12-18",
+      "endDate": "",
+      "summary": "Student Job",
+      "highlights": [
+        "Design and develop responsive and dynamic websites using HTML, CSS, and JavaScript."
+        "Utilize frameworks and libraries such as React and Angular to build interactive website.", 
+        "Collaborate within a team to gather requirements, troubleshoot issues, and deploy web projects to production environments."
+      ]
+    },
     {
       "company": "Japan International Karate Center (JIKC)",
       "position": "Senpai (Assisting Instructor)",
