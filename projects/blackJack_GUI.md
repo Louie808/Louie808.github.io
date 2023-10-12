@@ -5,7 +5,7 @@ image: images/ProjectImages/blackjack.png
 title: Black Jack GUI
 permalink: projects/blackJack_GUI
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-12
+date: 2020-12-01
 labels:
   - Java
   - Game Design
