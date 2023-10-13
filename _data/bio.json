@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
-      "postalCode": "96782",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,11 +39,6 @@
       ]
     },
     {
-      "name": "Gaming Industry",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Artificial Intelligence",
       "keywords": [
       ]
@@ -51,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages / Frameworks / Tools",
       "level": "",
       "keywords": [
         "C",
@@ -60,31 +55,35 @@
         "Javascript",
         "HTML",
         "CSS",
-        "MongoDB",
-        "GitHub"
+        "x86 Assembly (NASM)",
+        "React",
+        "AngularJS",
+        "Semantic",
+        "Bootstrap",
+        "Meteor",
+        "MongoDB"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Unix",
         "Ubuntu",
         "Git/GitHub",
-        "Eclipse",
+        "Command-Line",
         "Windows",
-        "Linux"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected December 2023)",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "3.99",
+      "gpa": "3.88",
       "courses": [
       ]
     },
@@ -102,15 +101,39 @@
   "work": [
     {
       "company": "UH Groupings",
-      "position": "Web Developer",
+      "position": "Web App Developer",
       "website": "https://www.hawaii.edu/its/uhgroupings/",
       "startDate": "2022-12-18",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Student Job",
       "highlights": [
         "Design and develop responsive and dynamic websites using HTML, CSS, and JavaScript.",
         "Utilize frameworks and libraries such as React and Angular to build interactive website.",
         "Collaborate within a team to gather requirements, troubleshoot issues, and deploy web projects to production environments."
+      ]
+    },{
+      "company": "Simple Aloha Creations",
+      "position": "Crafts Assistant",
+      "website": "https://www.etsy.com/shop/SimpleAlohaCreations",
+      "startDate": "2022-12-18",
+      "endDate": "Present",
+      "summary": "Volunteer Work for Relative",
+      "highlights": [
+        "Prepared materials to facilitate the crafting of consumer products",
+        "Assisted in setting up and dismantling booth displays for craft fairs",
+        "Provided customer service and support during craft fairs",
+        ]
+    },{
+      "company": "2023 Summer Time Trade Experience",
+      "position": "Trade Assistant",
+      "website": "",
+      "startDate": "Summer 2023",
+      "endDate": "",
+      "summary": "Worked with Relative",
+      "highlights": [
+        "Collaborated with a relative to gain hands-on trade experience",
+        "Demonstrated rapid proficiency in operating a diverse range of tools",
+        "Gained a deep understanding of the physical demands inherent in the trade industry."
       ]
     },
     {
@@ -122,8 +145,8 @@
       "summary": "Teaching assistant",
       "highlights": [
         "Assisting head instructor by helping warm-up the class",
-        "Individually teaching students or group of students", 
-        "while also training oneself and helping others"
+        "Teaching individuals and group of students", 
+        "Simultaneously, activiely engaged in my own training and offer assistance to fellow classmates"
       ]
     }
   ],
@@ -132,8 +155,8 @@
       "organization": "Japan international Karate Center (JIKC)",
       "website": "https://www.jikc-hq.org/",
       "position": "Student",
-      "startDate": "2009-01-04",
-      "endDate": "2020-11-04",
+      "startDate": "2009",
+      "endDate": "2020",
       "summary": "Former Karate student",
       "highlights": [
         "Trained",
@@ -144,8 +167,20 @@
   ],
   "awards": [
     {
+      "title": "High-School National Spanish Exam Participant",
+      "date": "2016-2020",
+      "awarder": "the American Association of Teachers of Spanish and Portuguese",
+      "summary": "Invited and Participated all 4 years of high school to take the exam"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020-present",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2020-Present",
+      "date": "2020-2023",
       "awarder": "University of Hawai'i at Manoa",
       "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     },
@@ -156,22 +191,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Dean's List",
-      "date": "2020-present",
-      "awarder": "University of Hawai'i at Manoa",
-      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
-    },
-    {
       "title": "2021 UH Manoa Summer First-Year Merit Scholarship",
       "date": "2021",
       "awarder": "University of Hawai'i Manoa Outreach College",
       "summary": "University of Hawaiʻi at Mānoa Outreach College is pleased to offer a $1,200 merit scholarship to up to 100 first-year UH Mānoa students for Summer Sessions 2021. This award recognizes academically exceptional students who have demonstrated a commitment to completing their UH Mānoa degree in four years."
-    },
-    {
-      "title": "National Spanish Exam Participant",
-      "date": "2016-2020",
-      "awarder": "the American Association of Teachers of Spanish and Portuguese",
-      "summary": "Invited and Participated all 4 years of high school to take the exam"
     }
   ],
   "references": [
