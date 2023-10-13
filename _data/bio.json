@@ -98,7 +98,7 @@
       ]
     }
   ],
-  "work": [
+  "Experiences": [
     {
       "company": "UH Groupings",
       "position": "Web App Developer",
@@ -117,19 +117,19 @@
       "website": "https://www.etsy.com/shop/SimpleAlohaCreations",
       "startDate": "2022-12-18",
       "endDate": "Present",
-      "summary": "Volunteer Work for Relative",
+      "summary": "",
       "highlights": [
         "Prepared materials to facilitate the crafting of consumer products",
         "Assisted in setting up and dismantling booth displays for craft fairs",
         "Provided customer service and support during craft fairs",
         ]
     },{
-      "company": "2023 Summer Time Trade Experience",
+      "company": "Summer Time Trade Experience",
       "position": "Trade Assistant",
       "website": "",
-      "startDate": "Summer 2023",
+      "startDate": "2023",
       "endDate": "",
-      "summary": "Worked with Relative",
+      "summary": "",
       "highlights": [
         "Collaborated with a relative to gain hands-on trade experience",
         "Demonstrated rapid proficiency in operating a diverse range of tools",
@@ -152,7 +152,20 @@
   ],
   "volunteer": [
     {
-      "organization": "Japan international Karate Center (JIKC)",
+      "organization": "PANDA (Programming AND Algorithm)",
+      "website": "https://acmmanoa.org/pages/clubs/panda/",
+      "position": "Member",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "An ACM Manoa special interest group focused on studying and applying algorithms",
+        "Their mission is to foster algorithmic problem-solving skills vital for success in computer science",
+        "There are weekly meetings to tackle algorithm problems, mirroring those found in technical job interviews"
+      ] 
+    },
+    {
+      "organization": "Japan International Karate Center (JIKC)",
       "website": "https://www.jikc-hq.org/",
       "position": "Student",
       "startDate": "2009",
