@@ -6,7 +6,7 @@
     "email": "balal@hawaii.edu",
     "phone": "",
     "website": "https://Louie808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am a Recent Graduate for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. Looking to enter industry level and gain experience",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "808lbalajr2002",
-        "url": "https://www.linkedin.com/in/808lbalajr2002/"
+        "username": "lbalajr",
+        "url": "http://linkedin.com/in/lbalajr"
       }
     ]
   },
@@ -82,8 +82,8 @@
       "area": "Computer Science (expected December 2023)",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
-      "endDate": "Present",
-      "gpa": "3.88",
+      "endDate": "2023-12-16",
+      "gpa": "3.87",
       "courses": [
       ]
     },
@@ -104,7 +104,7 @@
       "position": "Web App Developer",
       "website": "https://www.hawaii.edu/its/uhgroupings/",
       "startDate": "2022-12-18",
-      "endDate": "Present",
+      "endDate": "2023-12-23",
       "summary": "Student Job",
       "highlights": [
         "Design and develop responsive and dynamic websites using HTML, CSS, and JavaScript.",
@@ -127,7 +127,7 @@
       "company": "Summer Time Trade Experience",
       "position": "Trade Assistant",
       "website": "",
-      "startDate": "",
+      "startDate": "Summer",
       "endDate": "2023",
       "summary": "",
       "highlights": [
@@ -179,6 +179,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Summer Startup Launchpad 2023",
+      "date": "Summer 2023",
+      "awarder": "sPACE",
+      "summary": "Awarded $2,000 for our team after 6-week intensive program educated and metoring us to help found and test our business ideas throguh customer discovery."
+    },
     {
       "title": "High-School National Spanish Exam Participant",
       "date": "2016-2020",
